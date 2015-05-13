@@ -1,0 +1,12 @@
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe.config
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.pdb
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.csprojResolveAssemblyReference.cache
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.exe
+D:\SEIP\test\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.pdb
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe.config
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.exe
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.pdb
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.pdb
+E:\zahid\assignment\set 01\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.csprojResolveAssemblyReference.cache
